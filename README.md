@@ -23,8 +23,9 @@
 
 - ⚡ Fun fact **i think am funny.**
 
-### Blogs posts
+### Contributions
 <!-- BLOG-POST-LIST:START -->
+<img src="https://activity-graph.herokuapp.com/graph?username=Haadiiii&theme=minimal" />
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
