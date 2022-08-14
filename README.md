@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [my porfolio](https://github.com/Haadiiii/my-portfolio)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Haadiiii?tab=repositories](https://github.com/Haadiiii?tab=repositories)
+- 👨‍💻 All of my projects are available at [Haadiii](https://github.com/Haadiiii?tab=repositories)
 
 - 💬 Ask me about **html , CSS and JavaScript**
 
