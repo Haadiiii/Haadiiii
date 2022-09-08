@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/haadiii_99" target="blank"><img src="https://img.shields.io/twitter/follow/haadiii_99?logo=twitter&style=for-the-badge" alt="haadiii_99" /></a> </p>
 
-- 🔭 I’m currently working on [todo list](https://github.com/Haadiiii/todo-list)
+- 🔭 currently working on [MAth-Mahecian](https://github.com/Haadiiii/Math-magicians)
 
-- 🌱 I’m currently learning **bootstrap, javaScript, React, ruby etc**
+- 🌱 currently learning **bootstrap, javaScript, React, ruby etc**
 
-- 👯 I’m looking to collaborate on [my porfolio](https://github.com/Haadiiii/my-portfolio)
+- 👯 looking to collaborate on [my porfolio](https://github.com/Haadiiii/my-portfolio)
 
-- 🤝 I’m looking for help with [my porfolio](https://github.com/Haadiiii/my-portfolio)
+- 🤝 looking for help with [my porfolio](https://github.com/Haadiiii/my-portfolio)
 
 - 👨‍💻 All of my projects are available at [Haadiii](https://github.com/Haadiiii?tab=repositories)
 
