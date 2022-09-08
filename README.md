@@ -9,7 +9,7 @@
 
 - 🔭 currently working on [MAth-Mahecian](https://github.com/Haadiiii/Math-magicians)
 
-- 🌱 currently learning **bootstrap, javaScript, React, ruby etc**
+- 🌱 currently learning **React/radux ruby, Ruby on Rails etc**
 
 - 👯 looking to collaborate on [my porfolio](https://github.com/Haadiiii/my-portfolio)
 
