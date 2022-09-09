@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/haadiii_99" target="blank"><img src="https://img.shields.io/twitter/follow/haadiii_99?logo=twitter&style=for-the-badge" alt="haadiii_99" /></a> </p>
 
-- 🔭 currently working on [MAth-Mahecian](https://github.com/Haadiiii/Math-magicians)
+- 🔭 currently working on [Math-Magecian](https://github.com/Haadiiii/Math-magicians)
 
 - 🌱 currently learning **React/redux, Ruby, Ruby on Rails etc**
 
