@@ -8,17 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/haadiii_99" target="blank"><img src="https://img.shields.io/twitter/follow/haadiii_99?logo=twitter&style=for-the-badge" alt="haadiii_99" /></a> </p>
 
-- 🔭 currently working on [Math-Magecian](https://github.com/Haadiiii/Math-magicians)
-
-- 🌱 currently learning **React/redux, Ruby, Ruby on Rails etc**
+- 🌱 currently learning **Ruby, Ruby on Rails etc**
 
 - 👯 looking to collaborate on [my porfolio](https://github.com/Haadiiii/my-portfolio)
 
-- 🤝 looking for help with [my porfolio](https://github.com/Haadiiii/my-portfolio)
-
 - 👨‍💻 All of my projects are available at [Haadiii](https://github.com/Haadiiii?tab=repositories)
 
-- 💬 Ask me about **html , CSS and JavaScript**
+- 💬 Ask me about **html5 , CSS3 , JavaScript, React/redux, Boostrap**
 
 - 📫 How to reach me **hammali99@gmail.com**
 
