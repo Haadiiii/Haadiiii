@@ -11,11 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [Haadiii](https://github.com/Haadiiii?tab=repositories)
 
-- 💬 Ask me about **html5 , CSS3 , JavaScript, React/redux, Ruby, Ruby on Rails, Boostrap**
+- 💬 Ask me about **html5, CSS3, JavaScript, React/Redux, Ruby, Ruby on Rails, Bootstrap**
 
 - 📫 How to reach me **hammali99@gmail.com**
-
-- ⚡ Fun fact **i think am funny.**
 
 ### Contributions
 <!-- BLOG-POST-LIST:START -->
