@@ -2,7 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haadiiii&label=Profile%20views&color=0e75b6&style=flat" alt="haadiiii" /></p>
-<a href="https://wakatime.com/@d449428e-1d0c-45f7-b2a7-389203ab4835"><img src="https://wakatime.com/badge/user/d449428e-1d0c-45f7-b2a7-389203ab4835.svg" alt="Total time coded since May 26 2022" /></a>
+<a href="https://wakatime.com/@d449428e-1d0c-45f7-b2a7-389203ab4835"><img src="https://wakatime.com/badge/user/d449428e-1d0c-45f7-b2a7-389203ab4835.svg" alt="Total time coded since May 26 2022" /></a> 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haadiiii" alt="haadiiii" /></a> </p>
 
