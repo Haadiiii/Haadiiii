@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **html5, CSS3, JavaScript, React/Redux, Ruby, Ruby on Rails, Bootstrap**
 
-- 📫 How to reach me **hammali99@gmail.com**
+- 📫 How to reach me **hammali99@gmail.com**  
 
 
 <h3 align="left">Connect with me:</h3>
